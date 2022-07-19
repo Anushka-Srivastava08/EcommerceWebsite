@@ -1,0 +1,58 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body{
+    overflow-x:hidden;
+    max-width: 100%;
+    margin:0;
+    margin-bottom: 150px;
+
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Andika';
+    
+}
+#bg{
+    background-image:url(images/desistop.jpeg);
+    
+}
+#banner_content {
+    background-color: rgba(0, 0, 0, 0.7);
+    
+}
+.carousel-inner img {
+    width: 100%;
+    height:100%;
+}
+.footer{
+    position: absolute;
+    min-height:150px;
+    padding-top:40px;
+    width: 100%;
+   
+    bottom: 0;
+    
+}
+.container  a {
+    color:black;
+}
+.container a:hover{
+    color:grey;
+    
+}
+#size{
+    max-height:200px;
+}
+
+group.clothes img {
+    max-width:  320px;
+    max-height: 253px;
+}
+
